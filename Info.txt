@@ -1,0 +1,2 @@
+Se depois do objeto referenciar com um . depois () é um metodo, o objeto esta sendo referenciado pelo um metodo
+Se não tiver é apenas um atributo
